@@ -48,7 +48,7 @@ lại bị cuốn vào thế giới khác (isekai) trong chính game của mình
 
 ---
 
-## 🛠️ Công nghệ sử dụng
+## Công nghệ sử dụng
 
 | Thành phần         | Công nghệ/Thư viện         |
 |--------------------|-----------------------------|
@@ -64,28 +64,27 @@ lại bị cuốn vào thế giới khác (isekai) trong chính game của mình
 
 ## Cấu trúc thư mục
 
-IsekaiHuster/
-│
-├── assets/ # Hình ảnh, âm thanh, bản đồ
-│ ├── sprites/
-│ ├── maps/
-│ ├── audio/
-│
-├── src/
-│ ├── main/
-│ │ ├── GamePanel.java
-│ │ ├── entity/ # Quản lý nhân vật, quái, boss
-│ │ ├── tile/ # Tiled map handler
-│ │ ├── ui/ # Hiển thị HUD, menu
-│ │ └── story/ # Quản lý cốt truyện, hội thoại
-│
-├── README.md
-└── build.gradle
-
+- IsekaiHuster/
+- │
+- ├── assets/ # Hình ảnh, âm thanh, bản đồ
+- │ ├── sprites/
+- │ ├── maps/
+- │ ├── audio/
+- │
+- ├── src/
+- │ ├── main/
+- │ │ ├── GamePanel.java
+- │ │ ├── entity/ # Quản lý nhân vật, quái, boss
+- │ │ ├── tile/ # Tiled map handler
+- │ │ ├── ui/ # Hiển thị HUD, menu
+- │ │ └── story/ # Quản lý cốt truyện, hội thoại
+- │
+- ├── README.md
+- └── build.gradle
 
 ---
 
-## 🔮 Kế hoạch phát triển
+## Kế hoạch phát triển
 
 ### Giai đoạn 1: Prototype
 - Di chuyển, nhảy, đánh cơ bản
