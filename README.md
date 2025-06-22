@@ -66,10 +66,10 @@ lại bị cuốn vào thế giới khác (isekai) trong chính game của mình
 
 - IsekaiHuster/
 - │
-- ├── assets/ # Hình ảnh, âm thanh, bản đồ
-- │ ├── sprites/
+- ├── res/ # Hình ảnh, âm thanh, bản đồ
+- │ ├── player_huster/
 - │ ├── maps/
-- │ ├── audio/
+- │ ├── sounds/
 - │
 - ├── src/
 - │ ├── main/
