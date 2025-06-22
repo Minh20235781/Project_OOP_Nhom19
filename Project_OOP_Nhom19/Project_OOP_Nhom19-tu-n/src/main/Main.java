@@ -3,6 +3,8 @@ package main;
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 
+import main.Main;
+
 public class Main {
 
     public static JFrame window;
@@ -13,6 +15,7 @@ public class Main {
 		window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		window.setResizable(false);
 		window.setTitle("Isekai Huster");
+		new Main().setIcon();
 		
 		GamePanel gamePanel = new GamePanel();
 		window.add(gamePanel);
