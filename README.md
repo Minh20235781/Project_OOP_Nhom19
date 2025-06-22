@@ -48,7 +48,7 @@ lại bị cuốn vào thế giới khác (isekai) trong chính game của mình
 
 ---
 
-## 🛠️ Công nghệ sử dụng
+## Công nghệ sử dụng
 
 | Thành phần         | Công nghệ/Thư viện         |
 |--------------------|-----------------------------|
@@ -85,7 +85,7 @@ IsekaiHuster/
 
 ---
 
-## 🔮 Kế hoạch phát triển
+## Kế hoạch phát triển
 
 ### Giai đoạn 1: Prototype
 - Di chuyển, nhảy, đánh cơ bản
