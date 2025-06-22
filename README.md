@@ -20,29 +20,29 @@ lại bị cuốn vào thế giới khác (isekai) trong chính game của mình
 
 ---
 
-## 🧩 Tính năng chính
+## Tính năng chính
 
-### 🎮 Hệ thống điều khiển
+### Hệ thống điều khiển
 - Di chuyển trái/phải, nhảy kép
 - Tấn công cơ bản, combo
-- Né tránh (roll/dash)
+- Né tránh
 - Tương tác với vật thể (nút, cửa, vật phẩm)
 
-### 🐉 Kẻ thù & Boss
+### Kẻ thù & Boss
 - Các loại quái vật với hành vi AI riêng
 - Mini-boss ở cuối mỗi vùng
 - Final boss với nhiều giai đoạn biến hóa
 
-### 💎 Vật phẩm & Trang bị
+### Vật phẩm & Trang bị
 - Vũ khí: Kiếm, cung, kỹ năng đặc biệt
 - Vật phẩm hồi máu, tăng sức mạnh tạm thời
 - Các mảnh ký ức để mở khóa kết thúc thật
 
-### 🧠 AI & Level Design
+### AI & Level Design
 - AI có thể truy đuổi, né tránh, tấn công theo pattern
 - Mỗi bản đồ có ẩn vật phẩm, bí mật và thử thách platform
 
-### 🎭 Cốt truyện phân nhánh
+### Cốt truyện phân nhánh
 - Lựa chọn hội thoại ảnh hưởng kết thúc
 - Có nhiều ending (Tốt – Bình thường – Tồi – Ẩn)
 
@@ -62,7 +62,7 @@ lại bị cuốn vào thế giới khác (isekai) trong chính game của mình
 
 ---
 
-## 📁 Cấu trúc thư mục
+## Cấu trúc thư mục
 
 IsekaiHuster/
 │
@@ -87,26 +87,26 @@ IsekaiHuster/
 
 ## 🔮 Kế hoạch phát triển
 
-### Giai đoạn 1: Prototype (✔)
-- [x] Di chuyển, nhảy, đánh cơ bản
-- [x] Thiết kế bản đồ cơ bản
-- [x] Tải sprite, map, âm thanh
+### Giai đoạn 1: Prototype
+- Di chuyển, nhảy, đánh cơ bản
+- Thiết kế bản đồ cơ bản
+- Tải sprite, map, âm thanh
 
 ### Giai đoạn 2: Gameplay chính
-- [ ] AI cơ bản cho quái
-- [ ] Hệ thống chiến đấu hoàn chỉnh
-- [ ] NPC hội thoại
-- [ ] Save/Load game
+- AI cơ bản cho quái
+- Hệ thống chiến đấu hoàn chỉnh
+- NPC hội thoại
+- Save/Load game
 
 ### Giai đoạn 3: Nội dung & Cốt truyện
-- [ ] Viết và phân nhánh cốt truyện
-- [ ] Thiết kế 4 vùng đất (Forest, Ruin, Castle, Final Zone)
-- [ ] Thiết kế boss
+- Viết và phân nhánh cốt truyện
+- Thiết kế 4 vùng đất (Forest, Ruin, Castle, Final Zone)
+- Thiết kế boss
 
 ### Giai đoạn 4: Tối ưu & phát hành
-- [ ] Hiệu ứng chiến đấu & kỹ năng
-- [ ] Hiển thị HUD đẹp hơn
-- [ ] Gói game thành file `.jar` hoặc `.exe`
+- Hiệu ứng chiến đấu & kỹ năng
+- Hiển thị HUD đẹp hơn
+- Gói game thành file `.jar` hoặc `.exe`
 
 ---
 
@@ -116,7 +116,7 @@ IsekaiHuster/
 
 ---
 
-## 🤝 Đóng góp
+## Đóng góp
 
 Rất hoan nghênh mọi đóng góp!
 
@@ -126,22 +126,22 @@ Rất hoan nghênh mọi đóng góp!
 
 ---
 
-## 📜 License
+## License
 
 Dự án được phát triển cho mục đích học tập, chưa công khai mã nguồn. 
 Nếu sử dụng lại mã, vui lòng xin phép chúng mình.
 
 ---
 
-## 🧙‍♂️ Liên hệ
+## Liên hệ
 
 - **Tác giả**:
 Các thành viên trong nhóm 19:
-Đỗ Đức Tuân - 20235859
-Nguyễn Nhật Minh - 20235781
-Đặng Hoàng Minh - 20235777
-Hoàng Việt - 20235871
-Vũ Anh - 20235657
-Phạm Mạnh Cường - 20235669
+- Đỗ Đức Tuân - 20235859
+- Nguyễn Nhật Minh - 20235781
+- Đặng Hoàng Minh - 20235777
+- Hoàng Việt - 20235871
+- Vũ Anh - 20235657
+- Phạm Mạnh Cường - 20235669
 
 
