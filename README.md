@@ -100,7 +100,7 @@ IsekaiHuster/
 
 ### Giai đoạn 3: Nội dung & Cốt truyện
 - Viết và phân nhánh cốt truyện
-- Thiết kế 4 vùng đất (Forest, Ruin, Castle, Final Zone)
+- Thiết kế vùng đất tựa như dungeon
 - Thiết kế boss
 
 ### Giai đoạn 4: Tối ưu & phát hành
