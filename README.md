@@ -64,23 +64,23 @@ lại bị cuốn vào thế giới khác (isekai) trong chính game của mình
 
 ## Cấu trúc thư mục
 
-IsekaiHuster/
-│
-├── assets/ # Hình ảnh, âm thanh, bản đồ
-│ ├── sprites/
-│ ├── maps/
-│ ├── audio/
-│
-├── src/
-│ ├── main/
-│ │ ├── GamePanel.java
-│ │ ├── entity/ # Quản lý nhân vật, quái, boss
-│ │ ├── tile/ # Tiled map handler
-│ │ ├── ui/ # Hiển thị HUD, menu
-│ │ └── story/ # Quản lý cốt truyện, hội thoại
-│
-├── README.md
-└── build.gradle
+- IsekaiHuster/
+- │
+- ├── assets/ # Hình ảnh, âm thanh, bản đồ
+- │ ├── sprites/
+- │ ├── maps/
+- │ ├── audio/
+- │
+- ├── src/
+- │ ├── main/
+- │ │ ├── GamePanel.java
+- │ │ ├── entity/ # Quản lý nhân vật, quái, boss
+- │ │ ├── tile/ # Tiled map handler
+- │ │ ├── ui/ # Hiển thị HUD, menu
+- │ │ └── story/ # Quản lý cốt truyện, hội thoại
+- │
+- ├── README.md
+- └── build.gradle
 
 
 ---
