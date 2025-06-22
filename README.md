@@ -1,5 +1,4 @@
-# Project_OOP_Nhom19
-# Isekai Huster
+# Project OOP Nhóm 19: Isekai Huster
 
 **Isekai Huster** là một game 2D phiêu lưu hành động nơi người chơi vào vai 
 một nhân vật bị xuyên không đến thế giới xa lạ và phải chiến đấu để sinh tồn, 
